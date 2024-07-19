@@ -3,7 +3,7 @@ layout: page
 title:  MathJax settings
 ---
 
-# Page 1
+# MathJax settings
 {% include lib/mathjax.html %}
 
 When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are <br><br>
