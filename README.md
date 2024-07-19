@@ -1,2 +1,2 @@
-# githubio-template
-Template for github.io pages
+# Attending Machine
+This is a machine that pays attention to everything all the time.
