@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Page title
+title:  MathJax settings
 ---
 
 # Page 1
