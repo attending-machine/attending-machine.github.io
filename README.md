@@ -1,2 +1,2 @@
-### Reasoning Machine
+### Attending Machine
 A Machine that reasons.

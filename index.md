@@ -1,19 +1,23 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Attending Machine
 ---
-# Reasoning Machine
+# Attending Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Attending-Machine (meta)](https://attending-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Attending-Machine (oaio)](https://attending-machine.github.io/oaio/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Attending-Machine (grok)](https://attending-machine.github.io/grok/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Attending-Machine (gemini)](https://attending-machine.github.io/gemini/)
+
+[Attending-Machine (depsek)](https://attending-machine.github.io/depsek/)
+
+[Attending-Machine (depsekr)](https://attending-machine.github.io/depsekr/)
 
